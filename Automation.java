@@ -1,3 +1,3 @@
 If(){
-  print("Hi Server")
+print("Hi local")
 }else
